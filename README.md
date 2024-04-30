@@ -7,10 +7,10 @@
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelance-Open%20for%20projects-5E8D87?logo=upwork"><br>
-  <img src="https://img.shields.io/badge/Video%20Games-Modding-7CB342?logo=steam">
-  <img src="https://img.shields.io/badge/Web%20Development-Angular%2C%20Laravel-FC5185?logo=html5">
-  <img src="https://img.shields.io/badge/AI-Artificial%20Intelligence-FFA726?logo=tensorflow">
+  <img src="https://img.shields.io/badge/Freelance-808080?logo=upwork"><br>
+  <img src="https://img.shields.io/badge/Video%20Games-808080?logo=steam">
+  <img src="https://img.shields.io/badge/Web%20Development-808080?logo=html5">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-808080?logo=opencv">
 </p>
 
 <!-- About Me Section -->
@@ -34,14 +34,24 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 ### 💻 Skills and Tools
 
 <p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Studio" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40">
+  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40">
 </p>
 
 <!-- Connect Section -->
