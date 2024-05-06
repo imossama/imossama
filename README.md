@@ -34,33 +34,21 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 ### 💻 Skills and Tools
 
 <p align="center">
-  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android Studio" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="Flask" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="Laravel" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40">
-  <img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="TypeScript" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="Oracle" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" alt="SQL" width="40">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=angular,androidstudio,arduino,babel,bash,bootstrap,c,cpp,flask,git,java,js,linux,laravel,mongodb,mysql,nodejs,opencv,php,ps,py,react,ts" />
+  </a>
 </p>
 
 <!-- Connect Section -->
 ### 🌐 Connect with Me
-
 <p align="center">
-  <a href="https://www.linkedin.com/in/imossama/"><img src="https://img.icons8.com/color/48/000000/linkedin.png" width="40" height="40"/></a>
-  <a href="https://discord.com/users/714966017427767296"><img src="https://img.icons8.com/color/48/000000/discord-logo.png" width="40" height="40"/></a>
-  <a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi"><img src="https://img.icons8.com/color/48/000000/stackoverflow.png" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/imossama/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+
+   <a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi">
+     <img src="https://skillicons.dev/icons?i=stackoverflow" />
+   </a>
 </p>
 
 <!-- Footer Section -->
