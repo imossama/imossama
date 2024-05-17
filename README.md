@@ -7,10 +7,10 @@
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelance-808080?logo=upwork"><br>
-  <img src="https://img.shields.io/badge/Video%20Games-808080?logo=steam">
-  <img src="https://img.shields.io/badge/Web%20Development-808080?logo=html5">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-808080?logo=opencv">
+  <img src="https://img.shields.io/badge/Freelance-2F2F2F?logo=upwork"><br>
+  <img src="https://img.shields.io/badge/Video%20Games-2F2F2F?logo=steam">
+  <img src="https://img.shields.io/badge/Web%20Development-2F2F2F?logo=html5">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2F2F2F?logo=opencv">
 </p>
 
 <!-- About Me Section -->
