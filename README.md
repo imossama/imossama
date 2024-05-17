@@ -42,11 +42,11 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 <!-- Connect Section -->
 ### 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/ossama-ettaqafi/" target="_blank">
+<a href="https://www.linkedin.com/in/ossama-ettaqafi/" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
-<a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi" target="_blank">
+<a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi" target="_blank" rel="noopener noreferrer">
   <img src="https://skillicons.dev/icons?i=stackoverflow" />
 </a>
 </p>
