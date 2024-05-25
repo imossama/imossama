@@ -3,7 +3,11 @@
   <img src="https://i.ibb.co/xH1mZMP/OSSAMAxd.jpg" alt="OSSAMA ETTAQAFI" border="0">
 </p>
 
-<h1 align="center">Welcome to my profile! 💙🤗</h1>
+<!-- <div align="center"><i>OSSAMA ETTAQAFI // @imossama</i></div> -->
+<h3 align="center">WELCOME TO MY PROFILE! 💙🤗</h3>
+<div align="center">
+  <hr width="40%"/>  
+</div>
 
 <!-- Badges Section -->
 <p align="center">
