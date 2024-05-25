@@ -60,3 +60,5 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 <!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=ossama-ettaqafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
 </p>-->
+
+<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imossama&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222">-->
