@@ -7,16 +7,17 @@
 
 <!-- Badges Section -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Freelance-2F2F2F?logo=upwork"><br>
-  <img src="https://img.shields.io/badge/Video%20Games-2F2F2F?logo=steam">
-  <img src="https://img.shields.io/badge/Web%20Development-2F2F2F?logo=html5">
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2F2F2F?logo=opencv">
+  <img src="https://img.shields.io/badge/Freelance-2F2F2F?logo=upwork&style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/Software%20Engineering-2F2F2F?logo=cloudways&style=for-the-badge"><br>
+  <img src="https://img.shields.io/badge/Video%20Games-2F2F2F?logo=steam&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Web%20Development-2F2F2F?logo=html5&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-2F2F2F?logo=opencv&style=for-the-badge">
 </p>
 
 <!-- About Me Section -->
 ### 👋🏻 About Me
 
-<p align="center">
+<p align="left">
   <i>"Instantiate me and utilize me as an object, yet I retain my creativity."</i>
 </p>
 
