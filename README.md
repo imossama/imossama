@@ -40,7 +40,7 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=angular,androidstudio,arduino,babel,bash,bootstrap,c,cpp,flask,git,java,js,linux,laravel,mongodb,mysql,nodejs,opencv,php,ps,py,react,ts" />
+    <img src="https://skillicons.dev/icons?i=angular,androidstudio,arduino,babel,bash,bootstrap,c,cpp,flask,git,java,js,linux,laravel,mongodb,mysql,nodejs,opencv,php,ps,py,react,ts" width="600" />
   </a>
 </p>
 
@@ -48,17 +48,8 @@ Hey, I'm OSSAMA ETTAQAFI, a developer turning ideas into reality through code. I
 ### 🌐 Connect with Me
 <p align="center">
 <a href="https://www.linkedin.com/in/imossama/">
-  <img src="https://skillicons.dev/icons?i=linkedin" />
-</a>
-
-<a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi">
-  <img src="https://skillicons.dev/icons?i=stackoverflow" />
+  <img src="https://skillicons.dev/icons?i=linkedin" width="34"/>
+</a><a href="https://stackoverflow.com/users/14837577/ossama-ettaqafi">
+  <img src="https://skillicons.dev/icons?i=stackoverflow" width="34"/>
 </a>
 </p>
-
-<!-- Footer Section -->
-<!--<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ossama-ettaqafi&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
-</p>-->
-
-<!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imossama&size_weight=0.5&count_weight=0.5&langs_count=8&theme=transparent&border_radius=0&hide_border=true&title_color=108c92&text_color=0c686c&prog_bg_color=222222">-->
