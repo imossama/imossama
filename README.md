@@ -8,7 +8,7 @@
 ### 👋🏻 About me
 
 <p>
-I am a results-oriented junior software engineer with a solid foundation in programming, networking, and database management. I possess a keen ability to translate complex ideas into functional software solutions. Committed to continuous learning, I am eager to contribute to innovative projects and grow within a dynamic team.
+I am a results-oriented junior software engineer with a solid foundation in programming, networking, and database management. I possess a keen ability to translate ideas into functional software solutions. Committed to continuous learning, I am eager to contribute to innovative projects and grow within a dynamic team.
 </p>
 
 ### 💻 Skills and Tools
