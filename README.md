@@ -8,7 +8,7 @@
 ### 👋🏻 About me
 
 <p>
-A results-oriented junior software engineer with a strong foundation in programming, networking, and database management. I thrive on transforming complex challenges into efficient, scalable software solutions. Eager to contribute to innovative projects and grow within a dynamic team environment.
+I'm Ossama, an independent developer using my programming skills to gain personal freedom and create meaningful projects. I'm passionate about solving real-world problems with technology and am always open to opportunities to innovate and improve.
 </p>
 
 ### 💻 Skills and Tools
