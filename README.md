@@ -44,7 +44,7 @@ I'm Ossama, an independent developer using my programming skills to gain persona
   <a href="https://discord.com/users/1268311532136169482">
     <img src="https://skillicons.dev/icons?i=discord" width="34"/>
   </a>
-  <a href="https://signal.me/#eu/m972arYYEJ6ryKqlU3wLqMGCofznShzt6vtHV2ufqSCnEhBYX4xA37XN5GP8bw8c">
+  <a href="https://signal.me/#eu/njGrY1k7f-V898HM4JVkV-xrT_aC2mEjrciFLg7mkE0q06HXkE5JRo9yknKywaU6">
       <img src="https://github.com/user-attachments/assets/1e3ec858-2e6e-44a4-ba17-c889398fc6ef" width="35"/>
   </a>
 </p>
