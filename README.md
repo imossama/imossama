@@ -15,7 +15,7 @@ I'm Ossama, an independent developer using my programming skills to gain persona
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,docker,linux,html,css,js,typescript,react,angular,vuejs,nextjs,bootstrap,webpack,python,nodejs,java,c,flask,php,laravel,postgres,mysql,sqlite,mongodb,graphql,jenkins,postman,figma,photoshop,premiere,arduino,babel,bash,opencv" width="600" />
+    <img src="https://skillicons.dev/icons?i=git,docker,linux,html,css,js,typescript,react,angular,bootstrap,python,nodejs,java,c,flask,php,laravel,mysql,sqlite,mongodb,postman,figma,photoshop,premiere,arduino,babel,bash,opencv" width="600" />
   </a>
 </p>
 
