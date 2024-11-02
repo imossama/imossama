@@ -1,8 +1,8 @@
 <h3 align="center">WELCOME TO MY PROFILE!</h3>
 
 <p align="center">
-  <a href="https://linktr.ee/imossama"><img src="https://img.shields.io/badge/👨🏻‍💻 Freelance-2F2F2F?&style=for-the-badge"></a><br>
-  <a href="https://welovedevs.com/app/user/ossama-ettaqafi-junior-software-engineer"><img src="https://img.shields.io/badge/💼 Seeking a remote job-2F2F2F?logo=globe&style=for-the-badge"></a><br>
+<!--   <a href="https://linktr.ee/imossama"><img src="https://img.shields.io/badge/👨🏻‍💻 Freelance-2F2F2F?&style=for-the-badge"></a><br> -->
+<!--   <a href="https://welovedevs.com/app/user/ossama-ettaqafi-junior-software-engineer"><img src="https://img.shields.io/badge/💼 Seeking a remote job-2F2F2F?logo=globe&style=for-the-badge"></a><br> -->
 </p>
 
 ### 👋🏻 About me
