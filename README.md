@@ -35,7 +35,7 @@ I'm Ossama, an independent developer using my programming skills to gain persona
   <li>🌐 Embedded Systems</li>
   <li>🤖 Artificial Intelligence</li>
   <li>💡 Complex Programming Solutions</li>
-  <li>🕸️ Web Development (Less appealing, but open to it)</li>
+  <li>🕸️ Web Development</li>
 </ul>
 
 ### 🌐 Connect with me
