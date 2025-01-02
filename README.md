@@ -9,7 +9,7 @@
   <!-- Interests Section -->
   <h3 style="color: #4a90e2; margin-bottom: 10px;">💡 What I Love to Learn</h3>
   <ul style="padding-left: 20px; margin-bottom: 20px;">
-    <li>🤖 Computer Science</li>
+    <li>💻 Computer Science</li>
     <li>🌱 Self-Improvement</li>
   </ul>
   
