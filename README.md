@@ -1,34 +1,53 @@
-<div class="container" style="max-width: 800px; margin: 0 auto; font-family: Arial, sans-serif; line-height: 1.6; color: #333;">
-  <!-- Header Section -->
-  <h1 style="text-align: center; color: #4a90e2; margin-bottom: 10px;">Welcome to My Profile!</h1>
-  <p style="text-align: center; font-size: 18px; margin-bottom: 20px;">
-    <strong>Ossama ETTAQAFI</strong><br>
-    <em>Data Science and AI Student</em>
+  <p style="text-align: center; font-size: 22px; margin-bottom: 20px;">
+    Hi, I'm <strong>Ossama ETTAQAFI</strong><br>
+    Passionate about <em>Data Science</em> and <em>AI</em> – striving to create intelligent solutions for a better tomorrow! 🚀
   </p>
   
   <!-- Interests Section -->
-  <h3 style="color: #4a90e2; margin-bottom: 10px;">💡 What I Love to Learn</h3>
-  <ul style="padding-left: 20px; margin-bottom: 20px;">
-    <li>💻 Computer Science</li>
+  <h3 style="color: #4a90e2; margin-bottom: 10px;">🔍 What I’m Exploring</h3>
+  <ul style="padding-left: 20px; margin-bottom: 20px; font-size: 16px;">
+    <li>💻 Computer Science
+      <ul style="padding-left: 20px; margin-top: 10px;">
+        <li>⌨ Software Development</li>
+        <li>📊 Data Science</li>
+        <li>🤖 Artificial Intelligence</li>
+        <li>💡 Machine Learning</li>
+      </ul>
+    </li>
     <li>🌱 Self-Improvement</li>
   </ul>
+
+  <!-- Skills Section -->
+  <h3 style="color: #4a90e2; margin-bottom: 10px;">💪 My Toolkit</h3>
+  <p style="text-align: center; margin-bottom: 20px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,html,css,js,typescript,react,angular,bootstrap,python,nodejs,java,c,flask,php,laravel,mysql,sqlite,mongodb,postman,figma,photoshop,premiere,arduino,babel,bash,opencv" width="600" />
+    </a>
+  </p>
+
+  <!-- Programming Languages Section -->
+  <h3 style="color: #4a90e2; margin-bottom: 10px;">🔧 Languages I Love to Code In</h3>
+  <p style="text-align: center; margin-bottom: 20px;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=c,java,python,js,php" width="195" />
+    </a>
+  </p>
   
   <!-- Hobbies Section -->
-  <h3 style="color: #4a90e2; margin-bottom: 10px;">🎨 My Hobbies</h3>
-  <ul style="padding-left: 20px; margin-bottom: 20px;">
+  <h3 style="color: #4a90e2; margin-bottom: 10px;">🎨 When I'm Not Coding</h3>
+  <ul style="padding-left: 20px; margin-bottom: 20px; font-size: 16px;">
     <li>🎶 Listening to music</li>
     <li>📚 Reading books</li>
     <li>🎬 Watching movies</li>
   </ul>
   
   <!-- Contact Section -->
-  <h3 style="color: #4a90e2; margin-bottom: 10px;">🌐 How to Contact Me</h3>
-  <p style="margin-bottom: 5px;">Feel free to send me a message:</p>
-  <p style="font-size: 16px; font-weight: bold; margin-bottom: 20px;">📱 WhatsApp: +212 651102287</p>
+  <h3 style="color: #4a90e2; margin-bottom: 10px;">📬 Let's Connect!</h3>
+  <p style="font-size: 16px; margin-bottom: 10px;">Have a project or just want to chat?</p>
+  <p style="font-size: 18px; font-weight: bold; color: #4a90e2; margin-bottom: 20px;">📱 WhatsApp: +212 651102287</p>
   
   <!-- Footer Section -->
-  <h6 style="text-align: center; color: #777;">
-    Wishing you happiness and success. <br>
-    Take care! 💖
+  <h6 style="text-align: center; color: #777; font-size: 14px;">
+    Wishing you a journey filled with success, joy, and endless possibilities. <br>
+    Take care and stay inspired! 💖
   </h6>
-</div>
