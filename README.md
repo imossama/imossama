@@ -47,7 +47,5 @@
   <p style="font-size: 18px; font-weight: bold; color: #4a90e2; margin-bottom: 20px;">📱 WhatsApp: +212 651102287</p>
   
   <!-- Footer Section -->
-  <h6 style="text-align: center; color: #777; font-size: 14px;">
-    Wishing you a journey filled with success, joy, and endless possibilities. <br>
-    Take care and stay inspired! 💖
-  </h6>
+  Wishing you a journey filled with success, joy, and endless possibilities. <br>
+  Take care and stay inspired! 💖
