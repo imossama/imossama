@@ -21,7 +21,7 @@
   <h3 style="color: #4a90e2; margin-bottom: 10px;">💪 My Toolkit</h3>
   <p style="text-align: center; margin-bottom: 20px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=git,docker,linux,html,css,js,typescript,react,angular,bootstrap,python,nodejs,java,c,flask,php,laravel,mysql,sqlite,mongodb,postman,figma,photoshop,premiere,arduino,babel,bash,opencv" width="600" />
+      <img src="https://skillicons.dev/icons?i=git,docker,linux,html,css,js,typescript,react,angular,bootstrap,python,nodejs,java,c,flask,php,laravel,mysql,sqlite,mongodb,postman,figma,photoshop,premiere,arduino,babel,bash,opencv" width="400" />
     </a>
   </p>
 
@@ -29,7 +29,7 @@
   <h3 style="color: #4a90e2; margin-bottom: 10px;">🔧 Languages I Love to Code In</h3>
   <p style="text-align: center; margin-bottom: 20px;">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=c,java,python,js,php" width="195" />
+      <img src="https://skillicons.dev/icons?i=c,java,python,js,php" width="130" />
     </a>
   </p>
   
