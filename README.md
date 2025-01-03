@@ -1,6 +1,6 @@
   <p style="text-align: center; font-size: 22px; margin-bottom: 20px;">
     Hi, I'm <strong>Ossama ETTAQAFI</strong><br>
-    Passionate about <em>Data Science</em> and <em>AI</em> – striving to create intelligent solutions for a better tomorrow! 🚀
+    Passionate about <em>Computer Science</em> – striving to create intelligent solutions for a better tomorrow! 🚀
   </p>
   
   <!-- Interests Section -->
