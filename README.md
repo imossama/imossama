@@ -48,7 +48,7 @@
 
 <!-- Footer Section -->
 <footer style="text-align: center; margin-top: 40px; font-size: 14px; color: #777;">
-  <p>© 2023 Ossama ETTAQAFI. All rights reserved.</p>
+  <p>© 2025 Ossama ETTAQAFI. All rights reserved.</p>
   <p>
     <a href="https://linkedin.com/in/ossama-ettaqafi" style="color: #4a90e2; text-decoration: none;">LinkedIn</a> | 
     <a href="https://github.com/imossama" style="color: #4a90e2; text-decoration: none;">GitHub</a>
