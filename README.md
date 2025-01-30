@@ -29,7 +29,7 @@
 <h3 style="color: #4a90e2; margin-bottom: 10px;">💙 Languages I Love to Code In</h3>
 <p style="text-align: center; margin-bottom: 20px;">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,java,python,js,php" width="130" />
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,php" width="130" />
   </a>
 </p>
 
