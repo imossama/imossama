@@ -9,7 +9,6 @@
       <li>📝 Crafting clean and efficient code in <strong>Software Development</strong></li>
       <li>📉 Unlocking insights from data with <strong>Data Science</strong></li>
       <li>🧠 Building intelligent systems with <strong>Artificial Intelligence</strong></li>
-      <li>🚀 Training models to predict and learn with <strong>Machine Learning</strong></li>
     </ul>
   </li>
   <li>🌟 <strong>Self-Improvement</strong> – Always learning, always growing!</li>
