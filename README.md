@@ -1,48 +1,57 @@
-<p style="text-align: center; font-size: 22px; margin-bottom: 20px;">
-  Hi, I'm <strong>Ossama ETTAQAFI</strong><br>
-  Passionate about <em>Computer Science</em> – Working to build smart solutions for a better tomorrow! 🚀
-</p>
+<h3>Hi, I'm <strong>Ossama ETTAQAFI</strong> 👋🏻</h3>
+<p>A passionate <em>Computer Science Enthusiast</em> on a mission to build intelligent solutions that shape the future! 🌍✨</p>
 
 <!-- Interests Section -->
-<h3 style="color: #4a90e2; margin-bottom: 10px;">🔍 What I’m Exploring</h3>
-<ul style="padding-left: 20px; margin-bottom: 20px; font-size: 16px;">
-  <li>🖥️ Computer Science
-    <ul style="padding-left: 20px; margin-top: 10px;">
-      <li>📝 Software Development</li>
-      <li>📉 Data Science</li>
-      <li>🧠 Artificial Intelligence</li>
-      <li>🚀 Machine Learning</li>
+<h3>🔍 What Drives Me</h3>
+<ul>
+  <li>🖥️ <strong>Computer Science</strong>
+    <ul>
+      <li>📝 Crafting clean and efficient code in <strong>Software Development</strong></li>
+      <li>📉 Unlocking insights from data with <strong>Data Science</strong></li>
+      <li>🧠 Building intelligent systems with <strong>Artificial Intelligence</strong></li>
+      <li>🚀 Training models to predict and learn with <strong>Machine Learning</strong></li>
     </ul>
   </li>
-  <li>🌟 Self-Improvement</li>
+  <li>🌟 <strong>Self-Improvement</strong> – Always learning, always growing!</li>
 </ul>
 
-<!-- Programming Languages Section -->
-<h3 style="color: #4a90e2; margin-bottom: 10px;">💙 Languages I Love to Code In</h3>
-<p style="text-align: center; margin-bottom: 20px;">
+<!-- Tools Section -->
+<h3>🛠️ Tools I Use</h3>
+<p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,java,c,php" width="130" />
+    <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,flask,laravel,mysql,mongodb,aws,docker,git,linux" width="400" alt="Tools I Use"/>
+  </a>
+</p>
+
+<!-- Programming Languages Section -->
+<h3>💻 Languages I Love to Code In</h3>
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,java,c,php" width="160" alt="Programming Languages" />
   </a>
 </p>
 
 <!-- Hobbies Section -->
-<h3 style="color: #4a90e2; margin-bottom: 10px;">🎨 When I'm Not Coding</h3>
-<ul style="padding-left: 20px; margin-bottom: 20px; font-size: 16px;">
-  <li>🎶 Listening to music</li>
-  <li>📚 Reading books</li>
-  <li>🎬 Watching movies</li>
+<h3>🎨 Beyond the Code</h3>
+<ul>
+  <li>🎶 <strong>Music</strong> – Fuel for creativity and focus.</li>
+  <li>📚 <strong>Books</strong> – Expanding my mind, one page at a time.</li>
+  <li>🎬 <strong>Movies</strong> – Stories that inspire and entertain.</li>
 </ul>
 
 <!-- Contact Section -->
-<h3 style="color: #4a90e2; margin-bottom: 10px;">📬 Let's Connect!</h3>
-<p style="font-size: 16px; margin-bottom: 10px;">Have a project or just want to chat?</p>
-<p style="font-size: 18px; font-weight: bold; color: #4a90e2; margin-bottom: 20px;">📱 WhatsApp: +212 651102287</p>
+<h3>📬 Let's Build Something Amazing Together!</h3>
+<p>Got a project in mind or just want to chat? Let’s connect!</p>
+<p>
+  📱 <strong>WhatsApp:</strong> +212 651102287<br>
+  📧 <strong>Email:</strong> ossamaett2002@gmail.com
+</p>
 
 <!-- Footer Section -->
-<footer style="text-align: center; margin-top: 40px; font-size: 14px; color: #777;">
-  <p>© 2025 Ossama ETTAQAFI. All rights reserved.</p>
+<footer>
+  <p>© 2025 <strong>Ossama ETTAQAFI</strong>. All rights reserved.</p>
   <p>
-    <a href="https://linkedin.com/in/ossama-ettaqafi" style="color: #4a90e2; text-decoration: none;">LinkedIn</a> | 
-    <a href="https://github.com/ossama-ettaqafi" style="color: #4a90e2; text-decoration: none;">GitHub</a>
+    <a href="https://linkedin.com/in/ossama-ettaqafi">LinkedIn</a> | 
+    <a href="https://github.com/ossama-ettaqafi">GitHub</a>
   </p>
 </footer>
