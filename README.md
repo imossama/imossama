@@ -15,7 +15,7 @@
 </ul>
 
 <!-- Tools Section -->
-<h3>🛠️ Tools I Use</h3>
+<h3>🛠️ Technologies I Use</h3>
 <p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=react,angular,typescript,html,css,flask,laravel,mysql,mongodb,aws,docker,git,linux" width="400" alt="Tools I Use"/>
